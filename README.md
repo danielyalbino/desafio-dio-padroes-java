@@ -1,7 +1,7 @@
 # Explorando Padrões de Projetos na Prática com Java
-Serão abordados dois projetos com os seguintes padrões de desenvolvimento em Java:
+
+
+Dois projetos, um desenvolvido com "Java Puro" e o outro com Spring Boot, com os seguintes padrões de desenvolvimento:
 * Singleton
 * Strategy
 * Facade  
-
-Um dos projetos será desenvolvido com "java puro" e o outro com Spring Boot.
